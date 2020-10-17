@@ -1,7 +1,7 @@
 # Eagle-Api
 Eagle Api is an usefull libary to using Eagle bot informations in your own discord bots or in your own websites
 
-With Eagle Api, we can retrieve informations about user invitations, ... (this is not finish)
+With Eagle Api, we can retrieve informations about user invitations, etc... (the rest is comming)
 
 To use Eagle Api, we have to buy it on https://eagle-bot.ml/eagleapi/
 
@@ -33,7 +33,7 @@ python3-pip3 install eagleapi
 
 ## Documentation
 
-#### Get informations about an user invitations:
+* #### Get informations about an user invitations:
 
 ```py
 import eagleapi
