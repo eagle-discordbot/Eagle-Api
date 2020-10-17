@@ -1,10 +1,8 @@
 # Eagle-Api
-Eagle Api is an usefull libary to using Eagle bot informations in your own discord bots or in your own websites
+Eagle Api is an usefull libary to get acces to all avalaibles Eagle Bot informations for your own uses, like bots and websites.
+With Eagle Api, we can retrieve informations about user invitations. (we're making updates, this is the first version, the best is comming !)
 
-With Eagle Api, we can retrieve informations about user invitations, etc... (the rest is comming)
-
-To use Eagle Api, we have to buy it on https://eagle-bot.ml/eagleapi/
-
+To use Eagle Api, you have to buy your acces on https://eagle-bot.ml/eagleapi/ (EagleBot is free, but not the pro acces to it's data)
 
 ## installation
 
